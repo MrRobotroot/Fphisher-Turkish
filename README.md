@@ -6,5 +6,5 @@
 * `apt update`
 * `apt install git curl php openssh-server -y`
 * `git clone https://github.com/MrRobotroot/Fphisher-Turkish.git`
-* `cd fphisher`
+* `cd Fphisher-Turkish`
 #### > Run : `bash fphisher.sh`
